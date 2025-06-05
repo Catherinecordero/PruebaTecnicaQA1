@@ -1,11 +1,11 @@
 {
   "name": "playwright-bdd-saucedemo",
   "version": "1.0.0",
-  "scripts": {
-    "test": "cucumber-js"
-  },
+ "scripts": {
+  "test": "cucumber-js"
+},
   "devDependencies": {
-    "@cucumber/cucumber": "^8.8.0",
+    "@cucumber/cucumber": "^11.3.0",
     "playwright": "^1.37.0"
   }
 }
