@@ -28,7 +28,7 @@ Utilicé Playwright junto con Cucumber (BDD) para automatizar el escenario de in
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/Catherinecordero/PruebaTecnicaQA.git
+   git clone https://github.com/Catherinecordero/PruebaTecnicaQA1.git
 
 
 ## Cómo usar
